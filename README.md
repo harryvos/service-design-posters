@@ -1,5 +1,5 @@
 # Stages of service design posters
-Sketch posters to visualise each stage of designing an agile service. Translated by [Sandra Kpodar](https://twitter.com/sandrakpodar). Images edited by Harry Vos](https://twitter.com/vosageroll).
+Sketch posters to visualise each stage of designing an agile service. Translated by [Sandra Kpodar](https://twitter.com/sandrakpodar). Images edited by [Harry Vos](https://twitter.com/vosageroll).
 
 All content is available under the [Open Government Licence v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), except where otherwise stated.
 
