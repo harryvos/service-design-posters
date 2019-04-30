@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595 842" style="enable-background:new 0 0 595 842;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3522AD;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'HelveticaNeue-Bold';}
+	.st3{font-size:64px;}
+	.st4{enable-background:new    ;}
+	.st5{fill:#FF0791;}
+	.st6{fill:none;stroke:url(#Path-3_1_);stroke-width:41;}
+	.st7{fill:none;stroke:url(#Path-2_1_);stroke-width:41;}
+	.st8{fill:none;stroke:url(#Path-2-Copy_1_);stroke-width:41;}
+</style>
+<title>Alpha</title>
+<desc>Created with Sketch.</desc>
+<g id="Alpha">
+	<rect id="Rectangle" x="-29" y="-28" class="st0" width="657" height="901"/>
+	<text transform="matrix(1 0 0 1 50 195)" class="st1 st2 st3">On teste les</text>
+	<text transform="matrix(1 0 0 1 50 265)" class="st4"><tspan x="0" y="0" class="st1 st2 st3">options avec des</tspan><tspan x="0" y="76.8" class="st1 st2 st3">hypothèses</tspan></text>
+	<text transform="matrix(1 0 0 1 50 113)" class="st5 st2 st3">Alph</text>
+	<text transform="matrix(1 0 0 1 183.4062 113)" class="st5 st2 st3"> </text>
+	<text transform="matrix(1 0 0 1 183.408 113)" class="st5 st2 st3">a</text>
+	
+		<linearGradient id="Path-3_1_" gradientUnits="userSpaceOnUse" x1="226.5848" y1="491.5558" x2="226.5848" y2="490.5558" gradientTransform="matrix(259.9217 0 0 -423.7733 -58382.2188 208572.2188)">
+		<stop  offset="0" style="stop-color:#1CE1F8"/>
+		<stop  offset="1" style="stop-color:#000A55"/>
+	</linearGradient>
+	<path id="Path-3" class="st6" d="M652.9,635c0,0-52,108-179,15s-78-226-31-252s198-7,204-134"/>
+	
+		<linearGradient id="Path-2_1_" gradientUnits="userSpaceOnUse" x1="227.5488" y1="488.218" x2="226.9567" y2="488.2509" gradientTransform="matrix(756.2874 -119.7841 29.9225 188.9232 -186234.2031 -64424.5469)">
+		<stop  offset="0" style="stop-color:#C3FF00"/>
+		<stop  offset="0.4653" style="stop-color:#66B37A"/>
+		<stop  offset="1" style="stop-color:#0061FF"/>
+	</linearGradient>
+	<path id="Path-2" class="st7" d="M-100.6,742.4c0,0,127.7,5.2,175.6-82.4s56.6-132.5,179-163s171.3,112.5,387.7,37.7"/>
+	
+		<linearGradient id="Path-2-Copy_1_" gradientUnits="userSpaceOnUse" x1="226.714" y1="490.7643" x2="227.0044" y2="491.0906" gradientTransform="matrix(364.9999 0 0 -540.0001 -82696.9844 265720.4688)">
+		<stop  offset="0" style="stop-color:#FFAA00"/>
+		<stop  offset="0.6151" style="stop-color:#FED15A"/>
+		<stop  offset="1" style="stop-color:#EFFF00"/>
+	</linearGradient>
+	<path id="Path-2-Copy" class="st8" d="M-52.1,899.3c41.1,85.9,387.8-177.1,344.4-378.2S42.6,342.9-4.7,498.3
+		S-93.2,813.4-52.1,899.3z"/>
+</g>
+</svg>
